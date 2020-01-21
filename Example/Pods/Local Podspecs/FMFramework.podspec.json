@@ -1,0 +1,22 @@
+{
+  "name": "FMFramework",
+  "version": "1.0.0",
+  "summary": "A short description of FMFramework.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Gaoronghua/FMFramework.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "771708987@qq.com": "gaorh@ifeng,com"
+  },
+  "source": {
+    "git": "https://github.com/771708987@qq.com/FMFramework.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FMFramework/Classes/**/*"
+}

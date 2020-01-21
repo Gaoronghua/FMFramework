@@ -1,0 +1,16 @@
+PODS:
+  - FMFramework (1.0.0)
+
+DEPENDENCIES:
+  - FMFramework (from `../`)
+
+EXTERNAL SOURCES:
+  FMFramework:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FMFramework: f0d7e0d98ee63584274c5024555c62f1e1aa0746
+
+PODFILE CHECKSUM: bd71734d1732689630c6aa9ef0d1c20d0aa01c3a
+
+COCOAPODS: 1.7.0

@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'FMFramework'
-  s.version          = '0.1.0'
+  s.version          = '1.0.0'
   s.summary          = 'A short description of FMFramework.'
 
 # This description is used to generate tags and improve search results.
@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/771708987@qq.com/FMFramework'
+  s.homepage         = 'https://github.com/Gaoronghua/FMFramework.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '771708987@qq.com' => 'gaorh@ifeng,com' }
